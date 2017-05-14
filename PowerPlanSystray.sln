@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlanSystray", "PowerPlanSystray\PowerPlanSystray.csproj", "{7EB60FE3-6C60-4D08-87CA-D748AD1E45E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPlanSystrayTests", "PowerPlanSystrayTests\PowerPlanSystrayTests.csproj", "{130B4993-D96C-4361-AAA9-11CE9964E840}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB60FE3-6C60-4D08-87CA-D748AD1E45E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB60FE3-6C60-4D08-87CA-D748AD1E45E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB60FE3-6C60-4D08-87CA-D748AD1E45E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB60FE3-6C60-4D08-87CA-D748AD1E45E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{130B4993-D96C-4361-AAA9-11CE9964E840}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{130B4993-D96C-4361-AAA9-11CE9964E840}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{130B4993-D96C-4361-AAA9-11CE9964E840}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{130B4993-D96C-4361-AAA9-11CE9964E840}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
